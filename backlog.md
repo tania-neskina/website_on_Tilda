@@ -7,6 +7,7 @@
 Контакты:
 Product Owner Татьяна Нескина - tatananeskina9@gmail.com 
 ник в тг: TinaN7
+
 Scrum-мастер Анна Мартын - dzihiko22@gmail.com  
 ник в тг: loonyc
 
